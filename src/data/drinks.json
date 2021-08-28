@@ -1,0 +1,20 @@
+[
+    {
+        "name": "napoje",
+        "desc": "coś do picia dla najedzonych",
+        "types":[
+            {
+                "name": "coca-cola",
+                "price": 6
+            },
+            {
+                "name": "coca-cola zero",
+                "price": 8
+            },
+            {
+                "name": "lipton ",
+                "price": 5
+            }
+        ]
+    }
+]

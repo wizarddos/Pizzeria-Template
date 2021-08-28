@@ -1,0 +1,96 @@
+[
+    { 
+        "name": "Pizza",
+        "desc": "Przygotowana na cienkim cieście wyłożona świeżym sosem pomidorowym",
+        "types":[
+            {
+                "name": "Margheritta",
+                "price": 24
+            },
+            {
+                "name": "Pepperoni",
+                "price": 26
+            },
+            {
+                "name": "Capricosa",
+                "price": 28.50
+            }
+        ]
+    },
+
+    {
+        "name": "Burger",
+        "desc":"chrupiąca bułka z świeżymi warzywami i mięsem",
+        "types":[
+            {
+                "name":"Klasyczny",
+                "price": 12
+            },
+
+            {
+                "name": "Cheeseburger",
+                "price": 14.50
+            },
+
+            {
+                "name": "Max",
+                "price":21 
+            }           
+        ]
+    },
+
+    {
+        "name": " Kebab",
+        "desc":"dania przedstawiać nie trzeba, dobry jak u turka o 3 ",
+        "types":[
+            {
+                "name": "Na cienkim",
+                "price": 10
+            },
+            {
+                "name": "Na grubym",
+                "price": 13
+            }
+        ]   
+    },
+
+
+    {
+        "name": "Dodatki",
+        "desc":"Na dopchanie się na maxa",
+        "types":[
+
+            {
+                "name": "Frytki",
+                "price": 6
+            },
+        
+            {
+                "name": "Nuggetsy",
+                "price": 12
+            },
+        
+            {
+                "name": "Krążki cebulowe",
+                "price": 9
+            }
+        ]
+    },
+    
+    {
+        "name": "Vege",
+        "desc":"Dla dbających o naturę",
+        "types":[
+            {
+                "name": "Vege Burger",
+                "price": 17
+            },
+        
+            {
+                "name": "Vege Kebab",
+                "price": 14
+            }
+        ]
+    }
+    
+]
